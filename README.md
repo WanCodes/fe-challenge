@@ -1,5 +1,7 @@
 # Syft Tic-Tac-Toe
 
+<img width="463" height="594" alt="Screenshot 2026-02-10 at 11 39 57" src="https://github.com/user-attachments/assets/dd985332-5407-4847-9aec-f9eb7fd199dd" />
+
 ## Tasks
 
 ### Create Tic-Tac-Toe Board
@@ -41,5 +43,3 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-# fe-coding-challenge
-# fe-challenge
